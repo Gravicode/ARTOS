@@ -1,0 +1,9 @@
+c:\jobs\Artos\Artos.Tools\bin\Debug\netstandard2.0\Artos.Tools.deps.json
+c:\jobs\Artos\Artos.Tools\bin\Debug\netstandard2.0\Artos.Tools.dll
+c:\jobs\Artos\Artos.Tools\bin\Debug\netstandard2.0\Artos.Tools.pdb
+c:\jobs\Artos\Artos.Tools\obj\Debug\netstandard2.0\Artos.Tools.csprojResolveAssemblyReference.cache
+c:\jobs\Artos\Artos.Tools\obj\Debug\netstandard2.0\Artos.Tools.csproj.CoreCompileInputs.cache
+c:\jobs\Artos\Artos.Tools\obj\Debug\netstandard2.0\Artos.Tools.AssemblyInfoInputs.cache
+c:\jobs\Artos\Artos.Tools\obj\Debug\netstandard2.0\Artos.Tools.AssemblyInfo.cs
+c:\jobs\Artos\Artos.Tools\obj\Debug\netstandard2.0\Artos.Tools.dll
+c:\jobs\Artos\Artos.Tools\obj\Debug\netstandard2.0\Artos.Tools.pdb

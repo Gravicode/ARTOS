@@ -1,0 +1,9 @@
+c:\jobs\Artos\Artos.Entities\bin\Debug\netstandard2.0\Artos.Entities.deps.json
+c:\jobs\Artos\Artos.Entities\bin\Debug\netstandard2.0\Artos.Entities.dll
+c:\jobs\Artos\Artos.Entities\bin\Debug\netstandard2.0\Artos.Entities.pdb
+c:\jobs\Artos\Artos.Entities\obj\Debug\netstandard2.0\Artos.Entities.csprojResolveAssemblyReference.cache
+c:\jobs\Artos\Artos.Entities\obj\Debug\netstandard2.0\Artos.Entities.csproj.CoreCompileInputs.cache
+c:\jobs\Artos\Artos.Entities\obj\Debug\netstandard2.0\Artos.Entities.AssemblyInfoInputs.cache
+c:\jobs\Artos\Artos.Entities\obj\Debug\netstandard2.0\Artos.Entities.AssemblyInfo.cs
+c:\jobs\Artos\Artos.Entities\obj\Debug\netstandard2.0\Artos.Entities.dll
+c:\jobs\Artos\Artos.Entities\obj\Debug\netstandard2.0\Artos.Entities.pdb

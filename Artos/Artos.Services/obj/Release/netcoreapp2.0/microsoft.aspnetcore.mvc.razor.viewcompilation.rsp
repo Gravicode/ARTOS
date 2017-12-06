@@ -1,0 +1,5 @@
+c:\jobs\Artos\Artos.Services
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Artos.Services
+--content-root=c:\jobs\Artos\Artos.Services
+--file=

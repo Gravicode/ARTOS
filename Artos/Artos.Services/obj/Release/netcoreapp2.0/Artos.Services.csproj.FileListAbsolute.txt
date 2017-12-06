@@ -1,0 +1,15 @@
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Services.deps.json
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Services.runtimeconfig.json
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Services.runtimeconfig.dev.json
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Services.dll
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Services.pdb
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Entities.dll
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Tools.dll
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Entities.pdb
+c:\jobs\Artos\Artos.Services\bin\Release\netcoreapp2.0\Artos.Tools.pdb
+c:\jobs\Artos\Artos.Services\obj\Release\netcoreapp2.0\Artos.Services.csprojResolveAssemblyReference.cache
+c:\jobs\Artos\Artos.Services\obj\Release\netcoreapp2.0\Artos.Services.csproj.CoreCompileInputs.cache
+c:\jobs\Artos\Artos.Services\obj\Release\netcoreapp2.0\Artos.Services.AssemblyInfoInputs.cache
+c:\jobs\Artos\Artos.Services\obj\Release\netcoreapp2.0\Artos.Services.AssemblyInfo.cs
+c:\jobs\Artos\Artos.Services\obj\Release\netcoreapp2.0\Artos.Services.dll
+c:\jobs\Artos\Artos.Services\obj\Release\netcoreapp2.0\Artos.Services.pdb
